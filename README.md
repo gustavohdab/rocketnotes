@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## ⚙️ API
 
-- [RocketNotes API]("https://github.com/gustavohdab/api-rocketnotes")
+<a href="https://github.com/gustavohdab/api-rocketnotes">API RocketNotes</a>
 
 ---
 
