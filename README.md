@@ -41,6 +41,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [ ] Adicionar responsividade
 
+## ⚙️ API
+
+- [RocketNotes API]("https://github.com/gustavohdab/api-rocketnotes")
+
 ---
 
 Feito com ♥ by Gustavo Batista :wave: [LinkedIn](https://www.linkedin.com/in/gustavo-h-batista/) e [GitHub](https://github.com/gustavohdab)
