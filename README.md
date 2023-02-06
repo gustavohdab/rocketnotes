@@ -1,5 +1,7 @@
 <h1 align="center"> RocketNotes </h1>
 
+> Site is live at: https://rocketnotes-gustavohdab.netlify.app/
+
 ## 💻 Projeto
 
 RocketNotes é uma aplicação de criação de notas intuitiva e fácil de usar, que permite aos usuários criar, editar e excluir notas com facilidade. Desenvolvido durante o curso Explorer da Rocketseat, ele foi construído com React, Styled Components, React Router Dom, Axios e Vite para proporcionar uma experiência de usuário única. Com RocketNotes, você pode criar suas notas rapidamente e com segurança.
